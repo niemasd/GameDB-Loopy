@@ -1,2 +1,2 @@
-# Loopy
+# GameDB-Loopy
 Casio Loopy
