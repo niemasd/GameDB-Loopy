@@ -1,1 +1,1 @@
-[BIOS] Internal Thermal Printer (Japan).bin
+[BIOS] Internal Thermal Printer (Japan)
